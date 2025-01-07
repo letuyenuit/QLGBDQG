@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLGiaiBongDaDataSet" targetNamespace="http://tempuri.org/QLGiaiBongDaDataSet.xsd" xmlns:mstns="http://tempuri.org/QLGiaiBongDaDataSet.xsd" xmlns="http://tempuri.org/QLGiaiBongDaDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLGiaiBongDaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLGiaiBongDaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QLGiaiBongDa.Properties.Settings.GlobalReference.Default.QLGiaiBongDaConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vThongKeBanThangTableAdapter" GeneratorDataComponentClassName="vThongKeBanThangTableAdapter" Name="vThongKeBanThang" UserDataComponentName="vThongKeBanThangTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLGiaiBongDaConnectionString (Settings)" DbObjectName="QLGiaiBongDa.dbo.vThongKeBanThang" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaDB, TenDB, SoBT FROM dbo.vThongKeBanThang</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaDB" DataSetColumn="MaDB" />
+              <Mapping SourceColumn="TenDB" DataSetColumn="TenDB" />
+              <Mapping SourceColumn="SoBT" DataSetColumn="SoBT" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLGiaiBongDaDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="QLGiaiBongDaDataSet" msprop:Generator_DataSetName="QLGiaiBongDaDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vThongKeBanThang" msprop:Generator_RowEvHandlerName="vThongKeBanThangRowChangeEventHandler" msprop:Generator_RowDeletedName="vThongKeBanThangRowDeleted" msprop:Generator_RowDeletingName="vThongKeBanThangRowDeleting" msprop:Generator_RowEvArgName="vThongKeBanThangRowChangeEvent" msprop:Generator_TablePropName="vThongKeBanThang" msprop:Generator_RowChangedName="vThongKeBanThangRowChanged" msprop:Generator_RowChangingName="vThongKeBanThangRowChanging" msprop:Generator_TableClassName="vThongKeBanThangDataTable" msprop:Generator_RowClassName="vThongKeBanThangRow" msprop:Generator_TableVarName="tablevThongKeBanThang" msprop:Generator_UserTableName="vThongKeBanThang">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaDB" msprop:Generator_ColumnPropNameInRow="MaDB" msprop:Generator_ColumnPropNameInTable="MaDBColumn" msprop:Generator_ColumnVarNameInTable="columnMaDB" msprop:Generator_UserColumnName="MaDB">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenDB" msprop:Generator_ColumnPropNameInRow="TenDB" msprop:Generator_ColumnPropNameInTable="TenDBColumn" msprop:Generator_ColumnVarNameInTable="columnTenDB" msprop:Generator_UserColumnName="TenDB" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SoBT" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="SoBT" msprop:Generator_ColumnPropNameInTable="SoBTColumn" msprop:Generator_ColumnVarNameInTable="columnSoBT" msprop:Generator_UserColumnName="SoBT" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:vThongKeBanThang" />
+      <xs:field xpath="mstns:MaDB" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

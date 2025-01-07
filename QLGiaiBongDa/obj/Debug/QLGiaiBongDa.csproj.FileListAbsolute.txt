@@ -1,0 +1,335 @@
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Dapper.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Common.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Design.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Microsoft.SqlServer.Types.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\EnvDTE.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\stdole.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Dapper.xml
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.xml
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBangXepHang.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBanThang.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormCauThu.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDangNhap.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDoiBong.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormLoaiTranDau.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormMain.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormNhaTaiTro.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormPhanCongTrongTai.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormSan.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTaiKhoan.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThePhat.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeKetQua.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeThePhat.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTranDau.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTrongTai.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBo.BFB0E7AF.Up2Date
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+R:\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Reports\RptThongKeKetQua.rdlc
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\Reports\RptThongKeThePhat.rdlc
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+R:\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+D:\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Reports\RptThongKeKetQua.rdlc
+D:\qlbd\QLGiaiBongDa\bin\Debug\Reports\RptThongKeThePhat.rdlc
+D:\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+D:\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+D:\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+D:\qlbd\QLGiaiBongDa\bin\Debug\Dapper.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\EnvDTE.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\stdole.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\Dapper.xml
+D:\qlbd\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBangXepHang.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBanThang.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormCauThu.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDangNhap.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDoiBong.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormLoaiTranDau.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormMain.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormNhaTaiTro.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormPhanCongTrongTai.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormSan.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTaiKhoan.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThePhat.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeKetQua.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeThePhat.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTranDau.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTrongTai.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBo.BFB0E7AF.Up2Date
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+D:\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Reports\RptThongKeKetQua.rdlc
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Reports\RptThongKeThePhat.rdlc
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Dapper.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\EnvDTE.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\stdole.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\Dapper.xml
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBangXepHang.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBanThang.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormCauThu.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDangNhap.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDoiBong.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormLoaiTranDau.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormMain.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormNhaTaiTro.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormPhanCongTrongTai.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormSan.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTaiKhoan.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThePhat.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeKetQua.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeThePhat.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTranDau.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTrongTai.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBo.BFB0E7AF.Up2Date
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+D:\qlbd\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Reports\RptThongKeKetQua.rdlc
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Reports\RptThongKeThePhat.rdlc
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Dapper.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\EnvDTE.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\stdole.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\Dapper.xml
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBangXepHang.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormBanThang.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormCauThu.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDangNhap.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormDoiBong.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormLoaiTranDau.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormMain.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormSan.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTaiKhoan.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeKetQua.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormThongKeThePhat.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormTranDau.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBo.BFB0E7AF.Up2Date
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormQuyDinhDoiBong.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormLoaiBT.resources
+C:\Users\Le Tuyen\Desktop\qlbd (1)\qlbd\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.GUI.FormKetQuaTranDau.resources

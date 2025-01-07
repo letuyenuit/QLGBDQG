@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLGiaiBongDaDataSet1" targetNamespace="http://tempuri.org/QLGiaiBongDaDataSet1.xsd" xmlns:mstns="http://tempuri.org/QLGiaiBongDaDataSet1.xsd" xmlns="http://tempuri.org/QLGiaiBongDaDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLGiaiBongDaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLGiaiBongDaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QLGiaiBongDa.Properties.Settings.GlobalReference.Default.QLGiaiBongDaConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vThongKeThePhatTableAdapter" GeneratorDataComponentClassName="vThongKeThePhatTableAdapter" Name="vThongKeThePhat" UserDataComponentName="vThongKeThePhatTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLGiaiBongDaConnectionString (Settings)" DbObjectName="QLGiaiBongDa.dbo.vThongKeThePhat" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MaTP, MaTD, TenDB, TenCT, ThoiDiem, LoaiThe FROM dbo.vThongKeThePhat</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MaTP" DataSetColumn="MaTP" />
+              <Mapping SourceColumn="MaTD" DataSetColumn="MaTD" />
+              <Mapping SourceColumn="TenDB" DataSetColumn="TenDB" />
+              <Mapping SourceColumn="TenCT" DataSetColumn="TenCT" />
+              <Mapping SourceColumn="ThoiDiem" DataSetColumn="ThoiDiem" />
+              <Mapping SourceColumn="LoaiThe" DataSetColumn="LoaiThe" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLGiaiBongDaDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="QLGiaiBongDaDataSet1" msprop:Generator_DataSetName="QLGiaiBongDaDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vThongKeThePhat" msprop:Generator_RowEvHandlerName="vThongKeThePhatRowChangeEventHandler" msprop:Generator_RowDeletedName="vThongKeThePhatRowDeleted" msprop:Generator_RowDeletingName="vThongKeThePhatRowDeleting" msprop:Generator_RowEvArgName="vThongKeThePhatRowChangeEvent" msprop:Generator_TablePropName="vThongKeThePhat" msprop:Generator_RowChangedName="vThongKeThePhatRowChanged" msprop:Generator_RowChangingName="vThongKeThePhatRowChanging" msprop:Generator_TableClassName="vThongKeThePhatDataTable" msprop:Generator_RowClassName="vThongKeThePhatRow" msprop:Generator_TableVarName="tablevThongKeThePhat" msprop:Generator_UserTableName="vThongKeThePhat">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MaTP" msprop:Generator_ColumnPropNameInRow="MaTP" msprop:Generator_ColumnPropNameInTable="MaTPColumn" msprop:Generator_ColumnVarNameInTable="columnMaTP" msprop:Generator_UserColumnName="MaTP">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaTD" msprop:Generator_ColumnPropNameInRow="MaTD" msprop:Generator_ColumnPropNameInTable="MaTDColumn" msprop:Generator_ColumnVarNameInTable="columnMaTD" msprop:Generator_UserColumnName="MaTD">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenDB" msprop:Generator_ColumnPropNameInRow="TenDB" msprop:Generator_ColumnPropNameInTable="TenDBColumn" msprop:Generator_ColumnVarNameInTable="columnTenDB" msprop:Generator_UserColumnName="TenDB" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenCT" msprop:Generator_ColumnPropNameInRow="TenCT" msprop:Generator_ColumnPropNameInTable="TenCTColumn" msprop:Generator_ColumnVarNameInTable="columnTenCT" msprop:Generator_UserColumnName="TenCT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ThoiDiem" msprop:Generator_ColumnPropNameInRow="ThoiDiem" msprop:Generator_ColumnPropNameInTable="ThoiDiemColumn" msprop:Generator_ColumnVarNameInTable="columnThoiDiem" msprop:Generator_UserColumnName="ThoiDiem" type="xs:int" minOccurs="0" />
+              <xs:element name="LoaiThe" msprop:Generator_ColumnPropNameInRow="LoaiThe" msprop:Generator_ColumnPropNameInTable="LoaiTheColumn" msprop:Generator_ColumnVarNameInTable="columnLoaiThe" msprop:Generator_UserColumnName="LoaiThe" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
